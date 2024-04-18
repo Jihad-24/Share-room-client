@@ -1,9 +1,9 @@
 "use client";
 
 import axios from "axios";
-// https://quick-ship-server-ten.vercel.app
+// https://share-room-server.vercel.app/
 export const instance = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://share-room-server.vercel.app",
 });
 
 const usePublicAxios = () => {
