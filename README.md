@@ -1,12 +1,12 @@
 # Quick Ship - Seamless Parcel Delivery App/Website
 
-Welcome to Quick Ship, your go-to platform for efficient and secure parcel delivery. This README provides a quick overview of our application's key features.
+Welcome to Quick Ship, Your Trusted Accommodation Partner Every Step of the Way. This README provides a quick overview of our application's key features.
 
 ## Features
 
 ### User-Friendly Navigation
 
-- **Navbar:** Simple navigation bar with logo, website name, and quick access to Home, Dashboard, Notifications, and Login.
+- **Navbar:** Simple navigation bar with logo, website name, and quick access to Home, Dashboard, and Login.
 
 - **Animations:** Enjoy a visually appealing experience with cool animations throughout the application.
 
@@ -14,17 +14,11 @@ Welcome to Quick Ship, your go-to platform for efficient and secure parcel deliv
 
 ### Banner Section
 
-- Engage with a captivating banner featuring a background image, search bar, and striking heading text.
+- Engage with a captivating banner featuring a background image, share room page, rent a room page, and some unorder list links.
 
-### Features Showcase
-
-- Explore the app's strengths through visually appealing feature cards, highlighting Parcel Safety, Super Fast Delivery, and more.
 
 - **Real-time Statistics:** Utilize the react-countup package for dynamic display of key usage statistics from the database.
 
-### Top Delivery Men Recognition
-
-- Recognize outstanding delivery personnel with the Top Delivery Man Section, showcasing the top 5 delivery men based on performance metrics.
 
 ### Secure Login and Registration System
 
@@ -44,26 +38,19 @@ Welcome to Quick Ship, your go-to platform for efficient and secure parcel deliv
 
 - **Book a Parcel:** Effortlessly book a parcel with a user-friendly form, including automatic price calculation and a default "pending" status.
 
-- **My Order:** Track all parcel bookings with options to update, cancel, review, and pay.
+- **My Share Room:** Here the user can see his/her rooms that they want to share.
 
-- **My Reviews:** Keep track of user reviews to enhance transparency and service improvement.
+- **My Renting Room:** Here the user can see his/her rooms that they want to Rent.
 
-### Admin Dashboard
+- **Review:** Here the user can review how our website is to his/her.
 
-- **Comprehensive Analytics:** Admins gain insights into app usage with detailed bar and line charts.
+- **Add City:** Here the Admin can post avaliable city to our website.
 
-- **Parcel Management:** Efficiently manage all booked parcels, assign delivery men, and track deliveries.
-
-- **User and Delivery Men Management:** Admins have control over user types, can make users Delivery Men or Admins, and view detailed user information.
-
-### Delivery Men's Dashboard
-
-- **My Delivery List:** Delivery Men manage assigned parcels with options to view locations, cancel, or mark deliveries as completed.
-
+- **Add Blog:** Here the user can post their blog so the others can see their blog in our website.
 
 ## Conclusion
 
-Quick Ship is not just an app; it's a complete ecosystem for efficient, secure, and user-friendly parcel delivery. Join us in revolutionizing the delivery experience!
+Quick Ship Room is Your Trusted Accommodation Partner Every Step of the Way. Join us in revolutionizing the delivery experience!
 
 ## Uses Technology
 
