@@ -1,6 +1,6 @@
-# Quick Ship - Seamless Parcel Delivery App/Website
+# Quick Ship Room- Seamless Accommodation Partner App/Website
 
-Welcome to Quick Ship, Your Trusted Accommodation Partner Every Step of the Way. This README provides a quick overview of our application's key features.
+Welcome to Quick Ship Room, Your Trusted Accommodation Partner Every Step of the Way. This README provides a quick overview of our application's key features.
 
 ## Features
 
