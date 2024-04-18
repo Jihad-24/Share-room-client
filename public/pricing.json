@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Basic Box",
+    "title": "Perfect for growing businesses",
+    "price": 29.99,
+    "userLimit": "10 user",
+    "advancedFeatures": "Advanced Features",
+    "support": " 24/7 Support",
+    "available": true,
+    "level": "Basic",
+    "contact": "basic-support@example.com"
+  },
+  {
+    "name": "Fast Box",
+    "price": 49.99,
+    "title": "Perfect for growing businesses",
+    "userLimit": "25 user",
+    "advancedFeatures": "Advanced Features",
+    "support": " 24/8 Support",
+    "available": true,
+    "level": "Standard",
+    "contact": "standard-support@example.com"
+  },
+  {
+    "name": "Super Fast",
+    "userLimit": "Unlimited Users",
+    "title": "Perfect for growing businesses",
+    "advancedFeatures": "Premium Features",
+    "support": " 24/8 Support",
+    "price": 99.99,
+
+    "available": true,
+    "level": "Premium",
+    "contact": "premium-support@example.com"
+  }
+]

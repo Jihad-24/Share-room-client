@@ -1,0 +1,50 @@
+.cardOne {
+  box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
+  transition: 0.5s;
+  background-color: white;
+  border-radius: 20px;
+  /* background-image: url("https://i.ibb.co/tBQ0Jbs/supply-chain-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: auto; */
+  /* width: 360px; */
+  height: 210px;
+}
+.cardOne {
+  height: 400px;
+}
+.imgbx {
+  position: absolute;
+
+  left: 50%;
+  top: -30px;
+  transform: translateX(-50%);
+  width: 200px;
+
+  background-color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: 0.5s;
+}
+.cardOne .imgbx {
+  width: 250px;
+}
+.cardOne .content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+}
+.cardOne .content .details {
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  transition: 0.5s;
+  transform: translateY(200px);
+}
+.cardOne .content .details {
+  transform: translateY(0px);
+}
