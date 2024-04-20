@@ -18,7 +18,7 @@ const Banner = () => {
     Every Step of the Way
 </h1>
 <p className="pr-16 text-center">
-At ShareSpace, we pride ourselves on being your go-to destination for reliable shared accommodations. With our platform, you can expect nothing less than exceptional service, ensuring smooth and hassle-free housing experiences tailored to your needs. Whether you're searching for a cozy shared apartment, a compatible roommate, or a vibrant co-living space, we're here to guide you every step of the way, making your housing journey as seamless and enjoyable as possible. Join us at ShareSpace today and embark on a journey to find your perfect home away from home!
+At Quick Share Room, we pride ourselves on being your go-to destination for reliable shared accommodations. With our platform, you can expect nothing less than exceptional service, ensuring smooth and hassle-free housing experiences tailored to your needs. Whether you're searching for a cozy shared apartment, a compatible roommate, or a vibrant co-living space, we're here to guide you every step of the way, making your housing journey as seamless and enjoyable as possible. Join us at ShareSpace today and embark on a journey to find your perfect home away from home!
 
 </p>
 
